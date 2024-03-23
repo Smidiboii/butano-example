@@ -1,0 +1,2 @@
+huffman.o: \
+ C:/Users/rayan/Desktop/butano-template/butano/hw/3rd_party/cult-of-gba-bios/src/huffman.s
